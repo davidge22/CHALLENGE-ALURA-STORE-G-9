@@ -96,10 +96,10 @@ Los CSV provienen de URLs públicas de GitHub Raw (incluidas en la primera celd
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## Autora
+## Autor
 
-**Joanna Alexandra Carrión Pérez**  
-🎓 Bachiller en Ingeniería Electrónica  
-🚀 Apasionada por la ciencia de datos y sistemas inteligentes  
-📧 joannacarrion14@gmail.com  
-🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/) 
+**David Alonso García Espichán**  
+🎓 Ingeniero Civil  
+🚀 Apasionado por aprender herramientas que me permitan optimizar los procesos laborales que afronto en el día a día  
+📧 dagaresp@gmail.com  
+🔗 ![LinkedIn](https://www.linkedin.com/in/david-garcia-espichan/?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
